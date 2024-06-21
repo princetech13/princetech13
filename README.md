@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning, and acquiring more skills
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, AND NODE.J
 - 💞️ I’m looking to collaborate on HTML,CSS, JAVASCRIPT AND NODE.J
-- 📫 How to reach me On whatsapp+2348101573798 , facebook:comr.prince chibuzo
+- 📫 How to reach me On whatsapp+2348101573798 , facebook:comr.prince chibuzo, linkedln prince chibuzo
 
 
 <!---
